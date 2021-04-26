@@ -16,7 +16,7 @@
     <nexus.url>http://172.39.8.241:8081</nexus.url>
     <wsdl4j.version>1.6.2</wsdl4j.version>
     <commons-lang3.version>3.1</commons-lang3.version>
-    <commons-io.version>2.3</commons-io.version>
+    <commons-io.version>2.7</commons-io.version>
     <xmlunit.version>1.3</xmlunit.version>
     <xmlbeans.version>2.4.0</xmlbeans.version>
     <wsrf-xbeans.version>1.0</wsrf-xbeans.version>
